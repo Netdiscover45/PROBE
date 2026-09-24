@@ -5,17 +5,17 @@ from .output import print_banner, print_scan_result
 
 
 BANNER = r"""
-██████╗ ██████╗  ██████╗ ██████╗ ███████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝
-██████╔╝██████╔╝██████╔╝█████╗
-██╔═══╝ ██╔══██╗██╔══██╗██╔══██╗██╔══╝
-██║     ██║  ██║██████╔╝██║  ██║███████╗   V0.1
-╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝
+ ____  ____   ___   ____   _____
+|  _ \|  _ \ / _ \ | __ ) | ____|
+| |_) | |_) | | | ||  _ \ |  _|
+|  __/|  _ <| |_| || |_) || |___
+|_|   |_| \_\\___/ |____/ |_____|
 
-Python Web Vulnerability Scanner
-Authorized targets only
+       PYTHON WEB VULNERABILITY SCANNER
+                         V0.2
+
+                  AUTHORIZED TARGETS ONLY
 """
-
 
 def main():
 
