@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/probe-logo.png" alt="PROBE Logo" width="500">
+  <img src="probe-logo.png" alt="PROBE Logo" width="500">
 </p>
 
 # PROBE
