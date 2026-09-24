@@ -1,5 +1,3 @@
-![Uploading ChatGPT Image Sep 24, 2026, 09_09_50 PM.png…]()
-
 # PROBE
 
 ### Python Web Vulnerability Scanner
