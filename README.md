@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/probe-logo.png" alt="PROBE Logo" width="500">
+</p>
+
 # PROBE
 
 ### Python Web Vulnerability Scanner
